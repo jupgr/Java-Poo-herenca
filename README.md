@@ -3,7 +3,7 @@
 Projeto desenvolvido na disciplina de Programação de Sistemas I, com foco em **herança**, **sobrescrita de métodos** e **orientação a objetos**.
 
 ##  Descrição
-O projeto simula super-heroínas com diferentes habilidades:
+O projeto simula super-heroínas com diferentes habilidades
 
 ##  Tecnologias usadas
 - Java 19
