@@ -4,9 +4,6 @@ Projeto desenvolvido na disciplina de Programação de Sistemas I, com foco em *
 
 ##  Descrição
 O projeto simula super-heroínas com diferentes habilidades:
-- Voo
-- Super força
-- Super velocidade
 
 ##  Tecnologias usadas
 - Java 19
